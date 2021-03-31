@@ -1,0 +1,5 @@
+ g++ st.cc  -o app && ./app
+
+ g++ main.cc  -o app && ./app
+
+g++ 素数.cc  -o app && ./app
